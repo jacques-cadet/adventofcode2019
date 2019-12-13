@@ -1,4 +1,4 @@
-INPUT_FILE = 'day002.txt'
+INPUT_FILE = 'day002.in'
 
 
 def create_program(source, noun, verb):

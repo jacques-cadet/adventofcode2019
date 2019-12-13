@@ -1,4 +1,4 @@
-INPUT_FILE = 'day003.txt'
+INPUT_FILE = 'day003.in'
 DELTAS = {
     'U': (0, 1),
     'D': (0, -1),

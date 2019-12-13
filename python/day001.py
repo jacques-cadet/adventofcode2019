@@ -1,4 +1,4 @@
-INPUT_FILE = 'day001.txt'
+INPUT_FILE = 'day001.in'
 
 
 def calculate_fuel(mass):
